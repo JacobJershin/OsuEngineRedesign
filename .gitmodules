@@ -1,0 +1,3 @@
+[submodule "OSUtoIGIS"]
+	path = OSUtoIGIS
+	url = https://github.com/TheCoderMerlin/ScenesShellBasic
